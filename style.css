@@ -18,6 +18,9 @@ h1 {
     font-weight: 500;
     line-height: 23px;
 }
+h1 a {
+    text-decoration: none;
+}
 h3 {
     font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
     font-size: 17px;
